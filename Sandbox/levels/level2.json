@@ -1,0 +1,7 @@
+{
+    "label": "Level Two",
+    "sprites": [
+        { "name": "block", "position": [1, 4], "texName": "blocks", "texRectCoords": [7, 5], "texRectSize": [128, 128]},
+        { "name": "block", "position": [2, 4], "texName": "blocks", "texRectCoords": [7, 5], "texRectSize": [128, 128]}
+    ]
+}

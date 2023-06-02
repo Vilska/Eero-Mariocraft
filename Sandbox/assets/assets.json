@@ -1,0 +1,21 @@
+{
+    "textures": [
+        ["blocks", "tilesheet.png"],
+        ["mario", "mario.png"],
+        ["explosion", "explosion.png"],
+        ["bullet", "bullet.png"],
+        ["logo", "logo.png"],
+        ["about", "about.png"]
+    ],
+
+    "fonts": [
+        ["Orbitron", "Orbitron-Regular.ttf"],
+        ["Pixeloid", "PixeloidSansBold-PKnYd.ttf"]
+    ],
+
+    "animations": [
+        ["marioJump", "mario", [4, 0], [128, 128], [1, 1], 0],
+        ["marioRun", "mario", [1, 0], [128, 128], [3, 1], 0.2],
+        ["explosion", "explosion", [0, 1], [128, 128], [5, 2], 0.1]
+    ]
+}
